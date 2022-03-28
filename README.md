@@ -20,7 +20,7 @@ The algorithm is a common linear algebra solver, the decomposition of a Hermitia
 
 This algorithm has a serial complexity O(n<sup>3</sup>).
 
-![Cholesky description](../images/description.png)
+![Cholesky description](https://github.com/hank871116/HLS_LAB_B_5/blob/main/src/images/description.png)
 
 [_More information on wikipedia..._](https://en.wikipedia.org/wiki/Cholesky_decomposition)
 Note that this solver is included as part the official Vitis accelerated libraries, here is a link to its documentation:
