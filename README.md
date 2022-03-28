@@ -15,3 +15,5 @@ Note that this solver is included as part the official Vitis accelerated librari
 https://xilinx.github.io/Vitis_Libraries/solver/2021.2/guide_L2/L2_api.html#potrf
 
 For our purpose, we will start with a simple description implemented in C++ and explain how to adapt it for acceleration with an Alveo U50 card.
+
+Reference:https://github.com/Xilinx/Vitis-Tutorials/tree/2021.2/Hardware_Acceleration/Design_Tutorials/06-cholesky-accel
